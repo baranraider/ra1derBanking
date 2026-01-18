@@ -1,0 +1,84 @@
+{
+  "language": "tr",
+  "translations": {
+    "tr": {
+      "bankTitle": "LS Banking",
+      "welcomeUser": "Hoşgeldiniz, {{username}}",
+      "close": "Kapat",
+  
+      "personalAccount": "Kişisel Hesap",
+  
+      "personalCard": "Kişisel Kart",
+      "eliteCard": "LS Elite Card",
+      "cardHolder": "Kart Sahibi",
+      "expiryDate": "Son Kullanma",
+      "debit": "Banka Kartı",
+      "creditType": "Kredi Kartı",
+  
+      "accountNumber": "Hesap Numarası",
+      "accountNumberLabel": "Hesap Numarası",
+  
+      "depositMoney": "Para Yatır",
+      "withdrawMoney": "Para Çek",
+      "transferMoney": "Para Gönder",
+  
+      "quickDeposit": "Hızlı Para Yatır",
+      "quickWithdraw": "Hızlı Para Çek",
+      "quickDepositReason": "Hızlı para yatırma",
+      "quickWithdrawReason": "Hızlı para çekme",
+  
+      "myBills": "Faturalarım",
+      "payBillsEasily": "Faturalarını Kolayca Öde!",
+      "noUnpaidBills": "Ödenmemiş fatura yok",
+      "pay": "Öde",
+  
+      "amount": "Miktar",
+      "reason": "Sebep",
+  
+      "cancel": "Vazgeç",
+      "confirm": "Onayla",
+  
+      "noTransactions": "Henüz işlem yok"
+    },
+  
+    "en": {
+      "bankTitle": "LS Banking",
+      "welcomeUser": "Welcome, {{username}}",
+      "close": "Close",
+  
+      "personalAccount": "Personal Account",
+  
+      "personalCard": "Personal Card",
+      "eliteCard": "LS Elite Card",
+      "cardHolder": "Card Holder",
+      "expiryDate": "Expiry Date",
+      "debit": "Debit Card",
+      "creditType": "Credit Card",
+  
+      "accountNumber": "Account Number",
+      "accountNumberLabel": "Account Number",
+  
+      "depositMoney": "Deposit Money",
+      "withdrawMoney": "Withdraw Money",
+      "transferMoney": "Transfer Money",
+  
+      "quickDeposit": "Quick Deposit",
+      "quickWithdraw": "Quick Withdraw",
+      "quickDepositReason": "Quick deposit",
+      "quickWithdrawReason": "Quick withdrawal",
+  
+      "myBills": "My Bills",
+      "payBillsEasily": "Pay your bills easily!",
+      "noUnpaidBills": "No unpaid bills",
+      "pay": "Pay",
+  
+      "amount": "Amount",
+      "reason": "Reason",
+  
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+  
+      "noTransactions": "No transactions yet"
+    }
+  }
+}
